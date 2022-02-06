@@ -1,0 +1,18 @@
+.button {
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto';
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.button-active {
+  text-decoration: underline;
+  color: hsl(40, 99%, 66%);
+}
+
+.list-styles {
+  list-style-type: none;
+  display: flex;
+  margin-right: 10px;
+}
